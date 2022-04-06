@@ -1,1 +1,1 @@
-python-3.9.11
+web: voila --port=$PORT --no-browser app.ipynb
